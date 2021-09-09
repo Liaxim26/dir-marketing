@@ -1,0 +1,121 @@
+section {
+  padding: 0 170px;
+  padding-top: 50px;
+  padding-bottom: 0;
+  background-color: rgb(42%, 55%, 84%, 30%);
+	}
+	section:first-child {
+		background-color: white;
+		padding-top: 0px;
+	}
+
+
+header{
+	margin-bottom: 5px;
+  	box-shadow: 0px 15px 10px rgb(27%, 44%, 84%, 80%);
+
+	}
+	.header > div{
+	    display: inline-block;
+	    width: 33%;
+	    text-align: center;
+	    vertical-align: middle;
+
+	}	
+
+	.header > div:last-child{
+		margin-right: 0;
+
+	}
+
+
+.logo > a > img{
+	height: 150px;
+}
+
+.box{
+	text-align: center;
+	padding: 50px 0;
+	color: rgb(4%, 1%, 13%, 100%);
+}
+
+.caseBox > .case{
+	margin-bottom: 10px;
+}
+
+.case{
+	text-align: center;
+	border: 1px solid black;
+    padding: 100px;
+    float: left;
+    width: 45%;
+}
+
+.left-case{
+	margin-right: 10%;
+}
+
+.imgBox{
+	text-align: center;
+	border: 1px solid black;
+    padding: 20px;
+    float: left;
+    width: 15%;
+    margin-right: 2%;
+}
+
+.imgBox:last-child {
+    margin-right: 0;
+}
+
+.stagesWork{
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 50px;
+    float: left;
+    width: 12%;
+    margin-right: 0.57%;
+    padding: 20px 0;
+}
+
+.stagesWork:last-child {
+    margin-right: 0;
+}
+
+.stagesWorkBox{
+vertical-align: center;
+}
+
+.imgBoxabout{
+	text-align: center;
+	border: 1px solid black;
+    padding: 100px;
+    float: left;
+    width: 33%;
+    margin-right: 0.3%;
+}
+
+.imgBoxabout:last-child {
+    margin-right: 0;
+}
+
+//.carousel-item > img{
+	 height: 420px;
+}
+
+.hidden {
+  display: none
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none
+}
+
+
+.target-2 > h2{
+	    display: inline-block;
+	    width: 33%;
+	    text-align: center;
+	    vertical-align: middle;
+	}
